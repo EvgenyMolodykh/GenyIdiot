@@ -1,0 +1,12 @@
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.deps.json
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.dll
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.pdb
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.csproj.AssemblyReference.cache
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.AssemblyInfoInputs.cache
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.AssemblyInfo.cs
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.csproj.CoreCompileInputs.cache
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.dll
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\refint\GeniyIdiot.Common.dll
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.pdb
+D:\Загрузки\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\OnlineCourse13Stream_Kurators-molodykh_lesson_5_1\GeniyIdiot\GeniyIdiot.Common\obj\Debug\net8.0\ref\GeniyIdiot.Common.dll
